@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RusselDsouza029
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning front end web development
+- 📫 You can contact me russeldsouza56@gmail.com
 
 <!---
 RusselDsouza029/RusselDsouza029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
