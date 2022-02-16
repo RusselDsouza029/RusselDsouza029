@@ -1,5 +1,6 @@
 - Hi, I’m @Russel Dsouza
 - I'm Front End Web Developer
+- Currently I'm Doing Internship in Vistaar Digital
 - You can contact me russeldsouza456@gmail.com
 - I have created some of my projects you can see them below in Repository section
 <!---
