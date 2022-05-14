@@ -1,3 +1,3 @@
-- Hi, I’m @RusselDsouza09
+- Hi, I’m Russel Dsouza
 - I'm Front End Web Developer / React Developer
 - You can contact me russeldsouza456@gmail.com
