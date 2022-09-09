@@ -2,4 +2,4 @@
 - I'm Front End Web Developer / React Developer
 - My Portfolio Website : https://russel-portfolio.web.app/
 - You can contact me russeldsouza456@gmail.com
-- Experience : Intershp At Vistaar Digital as Associate Software Engineer
+- I finished a 3 Months internship at Vistaar Digital Communications Pvt Ltd. Currently, I'm working as an intern at Papaya Coders
