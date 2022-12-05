@@ -2,4 +2,4 @@
 - I'm Front End Web Developer / React Developer
 - My Portfolio Website : https://russel-portfolio.web.app/
 - You can contact me russeldsouza456@gmail.com
-- I finished a 3 Months internship at Vistaar Digital Communications Pvt Ltd. Currently, I'm working as an Web Developer intern at Papaya Coders.
+- I finished a 3 Months internship at Vistaar Digital Communications Pvt Ltd. I'm currently looking for a job or internship.
