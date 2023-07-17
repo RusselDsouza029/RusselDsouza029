@@ -2,7 +2,7 @@
 
 I'm a passionate Front-End Web Developer with expertise in React. Welcome to my GitHub profile!
 
-- 🌐 Check out my portfolio website: [Russel's Portfolio](https://russel-portfolio.web.app/)
+- 🌐 Check out my portfolio website: [My Portfolio](https://russel-portfolio.web.app/)
 - ✉️ Feel free to reach out to me at: russeldsouza456@gmail.com
 - 💼 Currently working as a Web Developer Intern at Futuready Media
 - 🎓 Completed a 3-month internship at Vistaar Digital Communications Pvt Ltd.
