@@ -4,8 +4,7 @@ I'm a passionate Front-End Web Developer with expertise in React. Welcome to my 
 
 - 🌐 Check out my portfolio website: [My Portfolio](https://russeldsouza.dev/)
 - ✉️ Feel free to reach out to me at: russeldsouza456@gmail.com
-- 💼 Currently working as a Web Developer Intern at Futuready Media
-- 🎓 Completed a 3-month internship at Vistaar Digital Communications Pvt Ltd.
+- 💼 Currently working as a Web Developer at Futuready Media
 
 ## Skills
 
