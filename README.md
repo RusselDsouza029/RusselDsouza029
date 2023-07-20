@@ -20,6 +20,4 @@ Here are some of the technologies and tools I work with:
 
 ## Projects
 
-I have developed various projects using the above technologies. Feel free to explore my repositories to see my work and contributions.
-
-Let's connect and collaborate on exciting projects! 😄🚀
+I have developed various projects using the above technologies. Feel free to explore my repositories to see my work.
