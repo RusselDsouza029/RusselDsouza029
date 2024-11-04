@@ -14,6 +14,7 @@ Here are some of the technologies and tools I work with:
 - CSS
 - JavaScript
 - React
+- Angular
 - Firebase
 - SCSS
 - Material UI
