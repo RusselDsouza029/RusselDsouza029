@@ -2,7 +2,7 @@
 
 I'm a passionate Front-End Web Developer with expertise in React. Welcome to my GitHub profile!
 
-- 🌐 Check out my portfolio website: [My Portfolio](https://russeldsouza.dev/)
+- 🌐 Check out my portfolio website: [https://russeldsouza.dev/]
 - ✉️ Feel free to reach out to me at: russeldsouza456@gmail.com
 - 💼 Currently working as a Web Developer at Futuready Media
 
