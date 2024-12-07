@@ -1,14 +1,14 @@
 # Hi, I'm Russel Dsouza! 👋
 
-I'm a passionate Front-End Web Developer with expertise in React. Welcome to my GitHub profile!
+Welcome to my GitHub profile! I'm a dedicated Front-End Web Developer specializing in React.
 
-- 🌐 Check out my portfolio website: https://russeldsouza.dev/
-- ✉️ Feel free to reach out to me at: russeldsouza456@gmail.com
-- 💼 Currently working as a Web Developer at Futuready Media
+- 🌐 Check out my [portfolio website](https://russeldsouza.dev/)
+- ✉️ Reach out to me at: [russeldsouza456@gmail.com](mailto:russeldsouza456@gmail.com)
+- 💼 Currently, I am working as a Web Developer at Futuready Media
 
 ## Skills
 
-Here are some of the technologies and tools I work with:
+Here are some of the technologies and tools I excel in:
 
 - HTML
 - CSS
@@ -21,4 +21,4 @@ Here are some of the technologies and tools I work with:
 
 ## Projects
 
-I have developed various projects using the above technologies. Feel free to explore my repositories to see my work.
+I have developed various projects using these technologies. Feel free to explore my repositories to see my work.
