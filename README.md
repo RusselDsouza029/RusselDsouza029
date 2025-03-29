@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a dedicated Front-End Web Developer specializing in React.
 
 - 🌐 Check out my [portfolio website](https://russeldsouza.dev/)
-- ✉️ Reach out to me at: [russeldsouza456@gmail.com](mailto:russel.dsouza.dev@gmail.com)
+- ✉️ Reach out to me at: [russel.dsouza.dev@gmail.com](mailto:russel.dsouza.dev@gmail.com)
 - 💼 Currently, I am working as a Web Developer at Futuready Media
 
 ## Skills
