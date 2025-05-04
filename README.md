@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a dedicated Front-End Web Developer specializi
 - ✉️ [russel.dsouza.dev@gmail.com](mailto:russel.dsouza.dev@gmail.com)
 - 💼 Web Developer at **Futuready Media**
 
----
-
 ## 🚀 Skills
 
 Here are some of the technologies and tools I work with:
@@ -15,14 +13,10 @@ Here are some of the technologies and tools I work with:
 - **Languages & Frameworks:** HTML, CSS, JavaScript, React, Angular
 - **Tools & Platforms:** Firebase, SCSS, Material UI
 
----
-
 ## 📂 Projects
 
 I’ve built a variety of projects using modern front-end technologies.  
 Check out my pinned repositories or scroll through my repos to see what I’ve been working on.
-
----
 
 ## 💡 Fun Facts
 
