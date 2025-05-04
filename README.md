@@ -1,24 +1,35 @@
 # Hi, I'm Russel Dsouza! 👋
 
-Welcome to my GitHub profile! I'm a dedicated Front-End Web Developer specializing in React.
+Welcome to my GitHub profile! I'm a dedicated Front-End Web Developer specializing in **React**.
 
-- 🌐 Check out my [portfolio website](https://russeldsouza.dev/)
-- ✉️ Reach out to me at: [russel.dsouza.dev@gmail.com](mailto:russel.dsouza.dev@gmail.com)
-- 💼 Currently, I am working as a Web Developer at Futuready Media
+- 🌐 [Portfolio Website](https://russeldsouza.dev/)
+- ✉️ [russel.dsouza.dev@gmail.com](mailto:russel.dsouza.dev@gmail.com)
+- 💼 Web Developer at **Futuready Media**
 
-## Skills
+---
 
-Here are some of the technologies and tools I excel in:
+## 🚀 Skills
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Angular
-- Firebase
-- SCSS
-- Material UI
+Here are some of the technologies and tools I work with:
 
-## Projects
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React, Angular
+- **Tools & Platforms:** Firebase, SCSS, Material UI
 
-I have developed various projects using these technologies. Feel free to explore my repositories to see my work.
+---
+
+## 📂 Projects
+
+I’ve built a variety of projects using modern front-end technologies.  
+Check out my pinned repositories or scroll through my repos to see what I’ve been working on.
+
+---
+
+## 💡 Fun Facts
+
+- I use Arch, BTW! 😎  
+- I love crafting minimal, performant web apps.  
+- Dark mode isn’t just a feature — it’s a lifestyle.  
+
+---
+
+Thanks for stopping by! Feel free to connect or reach out. Let's build something awesome together.
