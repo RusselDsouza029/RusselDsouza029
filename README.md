@@ -12,6 +12,7 @@ Here are some of the technologies and tools I work with:
 
 - **Languages & Frameworks:** HTML, CSS, JavaScript, React, Angular
 - **Tools & Platforms:** Firebase, SCSS, Material UI
+- 🐧 Exploring the awesome world of Linux (I use Arch, BTW 😎)
 
 ## 📂 Projects
 
